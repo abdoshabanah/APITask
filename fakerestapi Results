@@ -1,0 +1,234 @@
+{
+	"id": "27efd5ad-5ad3-4c1f-bc7e-6371e08009e9",
+	"name": "fakerestapi.azurewebsites Copy",
+	"timestamp": "2022-10-12T07:55:32.219Z",
+	"collection_id": "11355672-98f1c25a-cdc4-4812-b603-18ef45a95345",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 10,
+	"totalFail": 1,
+	"results": [
+		{
+			"id": "70b4bbd3-a62a-4611-8be9-1e16c1c61b76",
+			"name": "GET /api/v1/Authors",
+			"url": "http://fakerestapi.azurewebsites.net/api/v1/Authors",
+			"time": 554,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Body matches string": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				554
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Body matches string": true
+				}
+			]
+		},
+		{
+			"id": "9087822f-8419-4eab-9920-f70719895bc2",
+			"name": "POST /api/v1/Authors TC_1",
+			"url": "http://fakerestapi.azurewebsites.net/api/v1/Authors",
+			"time": 85,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Body matches string": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				85
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Body matches string": true
+				}
+			]
+		},
+		{
+			"id": "0e7cde8d-868b-4d54-9987-56c75520a48a",
+			"name": "POST /api/v1/Authors TC_2",
+			"url": "http://fakerestapi.azurewebsites.net/api/v1/Authors",
+			"time": 86,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request"
+			},
+			"tests": {
+				"Status code is 400": true
+			},
+			"testPassFailCounts": {
+				"Status code is 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				86
+			],
+			"allTests": [
+				{
+					"Status code is 400": true
+				}
+			]
+		},
+		{
+			"id": "13032471-04e1-44d3-9ccd-f88a767d64f3",
+			"name": "GET /api/v1/Authors/authors/books/{idBook}",
+			"url": "http://fakerestapi.azurewebsites.net/api/v1/Authors/authors/books/90",
+			"time": 84,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Body matches string": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				84
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Body matches string": true
+				}
+			]
+		},
+		{
+			"id": "790d79ce-74be-41ca-b3e6-ea4f827c036c",
+			"name": "PUT /api/v1/Authors/{id}",
+			"url": "http://fakerestapi.azurewebsites.net/api/v1/Authors/1",
+			"time": 82,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Body matches string": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				82
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Body matches string": true
+				}
+			]
+		},
+		{
+			"id": "85e16e9f-cb5a-4a03-8c28-25b4edcf15fb",
+			"name": "GET /api/v1/Authors/{id}",
+			"url": "http://fakerestapi.azurewebsites.net/api/v1/Authors/1",
+			"time": 89,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Body matches string": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body matches string": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				89
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Body matches string": false
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 980,
+	"collection": {
+		"requests": [
+			{
+				"id": "70b4bbd3-a62a-4611-8be9-1e16c1c61b76",
+				"method": "GET"
+			},
+			{
+				"id": "9087822f-8419-4eab-9920-f70719895bc2",
+				"method": "POST"
+			},
+			{
+				"id": "0e7cde8d-868b-4d54-9987-56c75520a48a",
+				"method": "POST"
+			},
+			{
+				"id": "13032471-04e1-44d3-9ccd-f88a767d64f3",
+				"method": "GET"
+			},
+			{
+				"id": "790d79ce-74be-41ca-b3e6-ea4f827c036c",
+				"method": "PUT"
+			},
+			{
+				"id": "85e16e9f-cb5a-4a03-8c28-25b4edcf15fb",
+				"method": "GET"
+			}
+		]
+	}
+}

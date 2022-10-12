@@ -1,0 +1,162 @@
+{
+    "id": "633b5cb8c5406a00ad561e5d",
+    "aaId": "633b5cb6a84c7f79c388a4fb",
+    "activityBlocked": false,
+    "avatarHash": "41b81b3e88be3116ff05595960991080",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/633b5cb8c5406a00ad561e5d/41b81b3e88be3116ff05595960991080",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "abdo",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "A",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/df29e3776874",
+    "username": "df29e3776874",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "df29e3776874@drmail.in",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "0e923a72af46ab5b944b161197e62c83",
+    "idBoards": [
+        "633cabedd7c48b03d4091bca",
+        "633caccfccdc9001a3c5dd4e",
+        "633cacdea22e9e010e30a6d6",
+        "633cacfde16d8a051d009404",
+        "633cb0a35975da00e6290a54",
+        "633cb0e5bfef150182e2932b",
+        "633cb113f8b8ba0112d13ea5",
+        "633cb153292945049b5a5aee",
+        "633cb159e3422003cec6f973",
+        "633cb16c713e7100ec824a6f",
+        "633cb5111ccacd01b7409b06",
+        "633cb65a2bf28001493dc852",
+        "633cb6c6d3bf6a033bb0c5fd",
+        "633cb7032c23e500c2940e1f",
+        "633cb729bc8e0b00be857de1",
+        "633cb75b58f28000bc124da8",
+        "633cb78bb686a20243c4c17a",
+        "633cb7f4d8564703ce2c6f8f",
+        "633cb89763ac3f02d88afc52",
+        "633d3b7b8fcf010283611a5c",
+        "633f616be0e52b0364d35ce6",
+        "633f61a47b935205411115d8",
+        "633f62c37ea63d0241fe83e9",
+        "633f63d2e5d32103726d524c",
+        "633f666687ace4006ef5170e",
+        "633f66999fde1704c620a75a",
+        "63402551d1d8a30149217b83",
+        "6340257726462303c4207115",
+        "634025ab68df57025c043d71",
+        "634025bd81ac590059bf9e42",
+        "634025df069e580570c05d67",
+        "6340261c80ef8f007efe0f0b",
+        "63402626ad77af0501eebb8f",
+        "6340267afb7b61042b9bd4b0",
+        "6340269a59053d01beec387e",
+        "63404650172ac914a435ddfc",
+        "634049951a608d01e4e6fe9b",
+        "634051270ef6a602567c7a61",
+        "6340528a706a22039ec7d63d",
+        "6340532643c4a005c2c75c78",
+        "6343db8b26162f01086ed05c"
+    ],
+    "idOrganizations": [
+        "633b5cc306dd8603a0ebdb8f"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-10-03T22:07:21.154Z"
+    },
+    "messagesDismissed": [
+        {
+            "_id": "633cb4db925e0701ce48d2c5",
+            "name": "ad-logged-in-public-board-633cacfde16d8a051d009404",
+            "count": 1,
+            "lastDismissed": "2022-10-04T22:34:03.049Z"
+        }
+    ],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event",
+        "boards-page-template-picker",
+        "close-menu-of-first-board"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "211",
+    "boards": [
+        {
+            "id": "6340528a706a22039ec7d63d",
+            "name": "X0111",
+            "closed": false,
+            "idOrganization": "633b5cc306dd8603a0ebdb8f",
+            "pinned": false
+        },
+        {
+            "id": "6343db8b26162f01086ed05c",
+            "name": "X0111",
+            "closed": false,
+            "idOrganization": "633b5cc306dd8603a0ebdb8f",
+            "pinned": false
+        },
+        {
+            "id": "6340532643c4a005c2c75c78",
+            "name": "X0111",
+            "closed": false,
+            "idOrganization": "633b5cc306dd8603a0ebdb8f",
+            "pinned": false
+        }
+    ]
+}
